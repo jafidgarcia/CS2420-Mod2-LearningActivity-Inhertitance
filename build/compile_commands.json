@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/jafid/Desktop/CS2420/MOD 2/LearningActivity_Inheritance/build",
+  "command": "/usr/bin/clang++  -I\"/Users/jafid/Desktop/CS2420/MOD 2/LearningActivity_Inheritance/inc\" -g -std=c++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -mmacosx-version-min=11.1 -o CMakeFiles/classLibrary.dir/src/Main.cpp.o -c \"/Users/jafid/Desktop/CS2420/MOD 2/LearningActivity_Inheritance/src/Main.cpp\"",
+  "file": "/Users/jafid/Desktop/CS2420/MOD 2/LearningActivity_Inheritance/src/Main.cpp",
+  "output": "CMakeFiles/classLibrary.dir/src/Main.cpp.o"
+},
+{
+  "directory": "/Users/jafid/Desktop/CS2420/MOD 2/LearningActivity_Inheritance/build",
+  "command": "/usr/bin/clang++  -I\"/Users/jafid/Desktop/CS2420/MOD 2/LearningActivity_Inheritance/inc\" -g -std=c++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -mmacosx-version-min=11.1 -o CMakeFiles/DynamicStringTest.dir/src/Main.cpp.o -c \"/Users/jafid/Desktop/CS2420/MOD 2/LearningActivity_Inheritance/src/Main.cpp\"",
+  "file": "/Users/jafid/Desktop/CS2420/MOD 2/LearningActivity_Inheritance/src/Main.cpp",
+  "output": "CMakeFiles/DynamicStringTest.dir/src/Main.cpp.o"
+}
+]
